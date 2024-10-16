@@ -1,3 +1,3 @@
 [submodule "food-app"]
-    path = food-app
-    url = https://github.com/Fawaz-777/food-app.git
+  path = food-app
+  url = <submodule-repo-url>
